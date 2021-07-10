@@ -1,3 +1,5 @@
 galletas
 pan
 lechuga
+tomate
+frutilla
